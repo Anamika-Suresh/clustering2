@@ -52,8 +52,9 @@ The objective of this project is to evaluate your understanding and ability to a
 
 - SciPy (for hierarchical clustering dendrograms)
 
-![KMeans Clusters](kmeans(2).png)
+![KMeans Clusters - k=2](kmeans_2.png)
 
-![KMeans Clusters](kmeans(3).png)
+![KMeans Clusters - k=3](kmeans_3.png)
 
 ![Hierarchical Clusters](hierarchical.png)
+
