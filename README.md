@@ -51,3 +51,9 @@ The objective of this project is to evaluate your understanding and ability to a
 - Plotly (for interactive 3D visualization)
 
 - SciPy (for hierarchical clustering dendrograms)
+
+![KMeans Clusters](kmeans(2).png)
+
+![KMeans Clusters](kmeans(3).png)
+
+![Hierarchical Clusters](hierarchical.png)
