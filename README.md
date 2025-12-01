@@ -24,6 +24,10 @@ The objective of this project is to evaluate your understanding and ability to a
 
 - Visualization: 3D scatter plot with clusters and centroids.
 
+ ![KMeans Clusters - k=2](kmeans_2.png)
+  
+![KMeans Clusters - k=3](kmeans_3.png)
+
 **3. Hierarchical Clustering**
 
 - Description: Hierarchical clustering builds a hierarchy of clusters either agglomeratively (bottom-up) or divisively (top-down).
@@ -33,6 +37,9 @@ The objective of this project is to evaluate your understanding and ability to a
 - Implementation: Applied Agglomerative Clustering with n_clusters=2.
 
 - Visualization: 3D scatter plot and dendrogram for cluster analysis.
+
+![Hierarchical Clusters](hierarchical.png)
+
 
 # Tools and Libraries Used
 
@@ -52,9 +59,6 @@ The objective of this project is to evaluate your understanding and ability to a
 
 - SciPy (for hierarchical clustering dendrograms)
 
-![KMeans Clusters - k=2](kmeans_2.png)
-![KMeans Clusters - k=3](kmeans_3.png)
-![Hierarchical Clusters](hierarchical.png)
 
 
 
