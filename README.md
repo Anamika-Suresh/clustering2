@@ -26,7 +26,7 @@ The objective of this project is to evaluate your understanding and ability to a
 
  ![KMeans Clusters - k=2](kmeans_2.png)
   
-![KMeans Clusters - k=3](kmeans_3.png)
+![KMeans Clusters - k=3](k-means_3.png)
 
 **3. Hierarchical Clustering**
 
